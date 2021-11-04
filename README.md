@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophia-kyr
 - 👀 I’m interested in website design
-- 🌱 I’m currently learning Java, html.
+- 🌱 I’m currently learning Java, html, CSS.
 - 📫 How to reach me: sophia.kyrychenko@gmail.com
 
 <!---
