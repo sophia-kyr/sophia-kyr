@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophia-kyr
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning low-level programming
 - 📫 How to reach me: sophiakyry@gmail.com
 
 <!---
